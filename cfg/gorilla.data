@@ -1,0 +1,14 @@
+train  = LINEMOD/gorilla/train.txt
+valid  = LINEMOD/gorilla/test.txt
+backup = backup/ape
+mesh = LINEMOD/ape/ape.ply
+tr_range = LINEMOD/gorilla/training_range.txt
+name = gorilla
+diam = 0.103
+gpus = 0
+width = 1728
+height = 1728
+fx = 572.4114 
+fy = 573.5704
+u0 = 325.2611
+v0 = 242.0489
