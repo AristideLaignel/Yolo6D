@@ -1,5 +1,7 @@
 # Yolo 6D
 
+Detection 3D for objects in a scene 
+
 # SINGLESHOTPOSE
  
 This is the development version of the code for the following paper:
